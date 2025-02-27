@@ -11,6 +11,8 @@
   - Inner loop performs the dot product, multiplying corresponding elements and summing them to calculate each element of the result matrix.
 - Returns the result matrix, which contains the computed product of the two input matrices.
 
+
+
 <img width="474" alt="Screenshot 2025-02-27 at 1 50 20 PM" src="https://github.com/user-attachments/assets/326366f4-f093-43f0-a28f-cbba0003da00" />
 
 - Checks if m3 is null, meaning matrix multiplication was not possible due to incompatible sizes, and prints an error message.
